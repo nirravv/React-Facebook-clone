@@ -1,3 +1,9 @@
+#A basic facebook clone using react.js! Google login authentication is there! there are not many options but the main thing is user can add new posts with caption and UI looks cool! Check out live demo from here! => https://react-facebookclone.web.app/
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
